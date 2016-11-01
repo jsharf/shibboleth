@@ -8,7 +8,9 @@ To avoid noise, this doesn't print one-byte headers by default. To get this
 functionality use option --short_headers or -sh
 
 # Usage
+```
 python shibboleth.py [-sh | --short_headers] file
+```
 
 # On the Name
 This script was inspired by Ange Albertini's abuse of file formats. I decided
